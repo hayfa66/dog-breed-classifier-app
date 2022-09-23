@@ -136,6 +136,9 @@ For the web app i would choose the Convolutional neural network with Transfer Le
 Data Visualization
 -----
 Data :
+human 
+
+<img src="https://github.com/hayfa66/dog-breed-classifier-app/blob/main/images/Aaron_Tippin_0001.jpg" height="200">
 
 Curly-coated retriever
 
