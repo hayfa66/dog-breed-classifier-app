@@ -18,12 +18,14 @@ def human_or_dog(img_path):
     '''
     function to evaluate a photo if it has a dog or a human or neither
     input : img path
-    output : breed of a dog name and a photo 
+    output : string contain name of the breed
     '''
     if dog_detector(img_path):
+        # call function that has a model that can predict
         dog_name = dog_breed(img_path)
         return "This Dog breed is "+dog_name+"."
     if face_detector(img_path):
+         # call function that has a model that can predict
         dog_name = dog_breed(img_path)
         return "This Photo looks like a "+dog_name+"."
     return "No human or dog found"
