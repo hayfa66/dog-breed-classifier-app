@@ -15,8 +15,21 @@ no necessary version needed i import all of these libraries by the last version 
 - scikit-learn
 - tensorflow-gpu
 
-you also needs to download some more files for the dataset ,
-you can find it in the [udacity dog-project github](https://github.com/udacity/dog-project) .
+However the 
+also needs to download some more file called "VGG-16 bottleneck features"
+And add it at file bottleneck_features
+
+you can find it here in the [udacity dog-project github](https://github.com/udacity/dog-project) .
+
+Then the app should work
+
+without more dataset , enviroment... etc
+
+
+However the dog_app.py would not work ,
+until you download the dataset (human and dog images)from the
+[udacity dog-project github](https://github.com/udacity/dog-project) .
+
 --------------
 ## 2. Project Motivation
 
