@@ -136,8 +136,26 @@ For the web app i would choose the Convolutional neural network with Transfer Le
 Data Visualization
 -----
 
+Testing algorithm photos : 
+- human 
+This human looks like an Beagle.
+<img src="https://github.com/hayfa66/dog-breed-classifier-app/blob/main/MyPhotos/photo1.png" height="200">
+This human looks like an Silky terrier.
+<img src="https://github.com/hayfa66/dog-breed-classifier-app/blob/main/MyPhotos/photo6.png" height="200">
 
+- dogs
+This Dog breed is American staffordshire terrier.
+<img src="https://github.com/hayfa66/dog-breed-classifier-app/blob/main/MyPhotos/photo2.png" height="200">
+This Dog breed is Pomeranian.
+<img src="https://github.com/hayfa66/dog-breed-classifier-app/blob/main/MyPhotos/photo5.png" height="200">
+
+- Bears
+No human or dog found
+<img src="https://github.com/hayfa66/dog-breed-classifier-app/blob/main/MyPhotos/photo3.png" height="200">
+No human or dog found
+<img src="https://github.com/hayfa66/dog-breed-classifier-app/blob/main/MyPhotos/photo4.png" height="200">
 -----
+
 ## 5. Licensing, Authors, Acknowledgements
 
 thanks to udacity for providing the complementry codes .
