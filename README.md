@@ -62,7 +62,82 @@ Myphoto : photo to test the model.
 images : photo used everywhere in the project.
 
 -----
+## Project Definition
 
+# Project Overview
+
+This is a project has an app that would use convolutional neural network to predict a dog breed , a human face and its similar look alike from dog breeds or pridict that no human or dog detected .
+
+# Problem Statement
+
+The app accept a photo from a user and predict as following :
+
+1. if it detect a dog it would predict its breed.
+2. if it detect a human it would pridict what of dog breed it similar to the most.
+3. if it detect no human of dog it would indicate it as an erorr.
+4. If the prediction fails it will show an error.
+
+Strategy for solving the problem
+
+- use Human and Dog detectors to correctly identify type of prediction we using .
+- use convolutional neural network to classify dog breeds from scratch
+- Use a pre-trained convolutional neural network to Classify Dog Breeds .
+- use convolutional neural network with Transfer Learning strategy to Classify Dog Breeds
+- evaluate which was the best model for classification.
+- write an algorithm to detect dog breed or what a human looks like as a dog breed or return an error.
+- test the the algorithm.
+- load the best model to an app.
+
+from the app a user can upload photo to test the model and the app .
+
+
+# Metrics
+Accuracy of the model was used to evaluate which model of the three was the best by taking the highest value.
+
+## Analysis
+
+# Data Exploration
+# Data Description
+
+Dog Files , containg 8351 dog images in total .
+Human Files , containg 13233 human images in total .
+
+dog Breeds name , 133 in total .
+
+For training :
+There are 6680 dog images.
+For validation :
+There are 835 dog images.
+For testing :
+There are 836 dog images.
+
+Human Detector Performance
+using a CascadeClassifier provided by udacity accuracy was :
+
+- 100.0% accuracy on the first 100 images in human files , have a detected human face.
+- 11.0% accuracy on the first 100 images in dog files , have a detected human face.
+
+Dog Detector Performance
+using pre-trained ResNet-50 model to detect dogs in images the accuracy was :
+
+- 0.0% accuracy on the first 100 images in human files , have a detected dog.
+- 100.0% accuracy on the first 100 images in dog files , have a detected dog.
+
+
+Model Performance
+
+- Convolutional neural network from scratch Accuracy was 6.8182%.
+- Pre-trained convolutional neural network Accuracy was 40.6699%.
+- Convolutional neural network with Transfer Learning strategy Accuracy was 80.1435%.
+
+For the web app i would choose the Convolutional neural network with Transfer Learning strategy , have heighest accuracy .
+
+
+Data Visualization
+-----
+
+
+-----
 ## 5. Licensing, Authors, Acknowledgements
 
 thanks to udacity for providing the complementry codes .
