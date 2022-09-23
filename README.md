@@ -105,10 +105,15 @@ Human Files , containg 13233 human images in total .
 dog Breeds name , 133 in total .
 
 For training :
+
 There are 6680 dog images.
+
 For validation :
+
 There are 835 dog images.
+
 For testing :
+
 There are 836 dog images.
 
 Human Detector Performance
