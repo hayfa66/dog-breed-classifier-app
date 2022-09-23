@@ -174,11 +174,11 @@ No human or dog found
 
 Summary: -
 
-- using face_detector and dog_detector function
+- using face_detector() and dog_detector() function
 and with the notebook provided by udacity i did the following :
 - implement all necessary function :
-- - dog_breed .
-- - Human_or_dog function .
+- - dog_breed() .
+- - Human_or_dog() function .
 - - using Resnet50 model with transfer learning strategy .
 - and copy paste it in the helper.py .
 - implement run.py to run app using helper.py .
