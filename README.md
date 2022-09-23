@@ -25,7 +25,7 @@ it also can can pridect what of the dog breed a human similar to , or if it didn
 
 *The interface of the web app*
 
-![Screenshot Web1 ](https://user-images.githubusercontent.com/110268610/189388738-30018296-a0ff-44e7-befb-912bbb46c43d.png)
+![Screenshot Web1 ](https://github.com/hayfa66/dog-breed-classifier-app/blob/main/webapp.png)
 
 
 ---------
@@ -42,7 +42,24 @@ And click on the url that will be given to you in the terminal.
 ---------
 ## 4.File Descriptions
 
+dog_app.html : html version of the dog_app notbook
+dog_app.ipynb : notebook provided by udacity to be a guide through the project
 
+app folder : 
+1. templetes : have the master.html that run the app
+2. utils
+    1. dog_names.p 
+    2. helper.py 
+    3. pretrainedmodel.py
+    4. extract_bottleneck_features
+3. static : necessary javascript code
+4. run.py : to run the app
+
+haarcascades folder : contain the model that detect a human face.
+
+Myphoto : photo to test the model.
+
+images : photo used everywhere in the project.
 
 -----
 
