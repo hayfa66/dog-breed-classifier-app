@@ -62,7 +62,7 @@ Myphoto : photo to test the model.
 images : photo used everywhere in the project.
 
 -----
-## Project Definition
+## 5. Project Definition
 
 # Project Overview
 
@@ -169,7 +169,7 @@ No human or dog found
 <img src="https://github.com/hayfa66/dog-breed-classifier-app/blob/main/MyPhotos/photo4.png" height="200">
 -----
 
-## 5. Conclusion
+## 6. Conclusion
 # Reflection
 
 Summary: -
@@ -196,9 +196,10 @@ web app predictions :
 - the result from the predictions was interesting . 
 
 # Improvement
+
 - Face human detector somtimes predict that there is a human face while there is not , maybe improving the face detector .
 - Improve the dog breed predicton on human maybe by training a new model specific for this task .
-- 
-## 6. Licensing, Authors, Acknowledgements
+
+## 7. Licensing, Authors, Acknowledgements
 
 thanks to udacity for providing the complementry codes .
