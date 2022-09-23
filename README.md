@@ -94,10 +94,10 @@ from the app a user can upload photo to test the model and the app .
 # Metrics
 Accuracy of the model was used to evaluate which model of the three was the best by taking the highest value.
 
-## Analysis
+# Analysis
 
-# Data Exploration
-# Data Description
+## Data Exploration
+### Data Description
 
 Dog Files , containg 8351 dog images in total .
 Human Files , containg 13233 human images in total .
@@ -174,8 +174,8 @@ No human or dog found
 <img src="https://github.com/hayfa66/dog-breed-classifier-app/blob/main/MyPhotos/photo4.png" height="200">
 -----
 
-## 6. Conclusion
-# Reflection
+# 6. Conclusion
+## Reflection
 
 Summary: -
 
