@@ -21,7 +21,7 @@ you can find it in the [udacity dog-project github](https://github.com/udacity/d
 ## 2. Project Motivation
 
 this is a the last project for a udacity Nanodegree it is to make an app on web that can predict a dog breed .
-it also can can pridect what of the dog breed a human similar to , or if it didn't find any human or dog face .
+it also can pridect what of the dog breed a human similar to , or if it didn't find any human or dog face .
 
 *The interface of the web app*
 
