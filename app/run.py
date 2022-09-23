@@ -28,8 +28,6 @@ def human_or_dog(img_path):
         return "This Photo looks like a "+dog_name+"."
     return "No human or dog found"
 
-print(human_or_dog("MyPhotos/photo4.png"),"--------------------------------------------------------------------------------\n")
-
 def allowed_file(filename):
     return '.' in filename and \
            filename.rsplit('.', 1)[1].lower() in ALLOWED_EXTENSIONS
