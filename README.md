@@ -155,6 +155,7 @@ No human or dog found
 No human or dog found
 <img src="https://github.com/hayfa66/dog-breed-classifier-app/blob/main/MyPhotos/photo4.png" height="200">
 -----
+
 ## 5. Conclusion
 # Reflection
 
@@ -163,10 +164,13 @@ Summary: -
 - using face_detector and dog_detector function
 and with the notebook provided by udacity i did the following :
 - implement all necessary function :
-- - dog_breed
-- - Human_or_dog function
-- - using Resnet50 model with transfer learning strategy
-
+- - dog_breed .
+- - Human_or_dog function .
+- - using Resnet50 model with transfer learning strategy .
+- and copy paste it in the helper.py .
+- implement run.py to run app using helper.py .
+- writing messages as response to every predicton situation.
+- and used script.js to transfer the result predicton to the web app .
 
 # Two particular aspect with difficulty or interesting:
 - understanding how architecture impact the CNN model was hard .
