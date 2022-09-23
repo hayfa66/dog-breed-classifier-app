@@ -172,6 +172,12 @@ and with the notebook provided by udacity i did the following :
 - writing messages as response to every predicton situation.
 - and used script.js to transfer the result predicton to the web app .
 
+web app predictions : 
+
+<img src="https://github.com/hayfa66/dog-breed-classifier-app/blob/main/webapp.png" height="400">
+<img src="https://github.com/hayfa66/dog-breed-classifier-app/blob/main/webapp2.png" height="400">
+<img src="https://github.com/hayfa66/dog-breed-classifier-app/blob/main/webapp3.png" height="400">
+
 # Two particular aspect with difficulty or interesting:
 - understanding how architecture impact the CNN model was hard .
 - the result from the predictions was interesting . 
