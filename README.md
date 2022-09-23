@@ -155,7 +155,27 @@ No human or dog found
 No human or dog found
 <img src="https://github.com/hayfa66/dog-breed-classifier-app/blob/main/MyPhotos/photo4.png" height="200">
 -----
+## 5. Conclusion
+# Reflection
 
-## 5. Licensing, Authors, Acknowledgements
+Summary: -
+
+- using face_detector and dog_detector function
+and with the notebook provided by udacity i did the following :
+- implement all necessary function :
+- - dog_breed
+- - Human_or_dog function
+- - using Resnet50 model with transfer learning strategy
+
+
+# Two particular aspect with difficulty or interesting:
+- understanding how architecture impact the CNN model was hard .
+- the result from the predictions was interesting . 
+
+# Improvement
+- Face human detector somtimes predict that there is a human face while there is not , maybe improving the face detector .
+- Improve the dog breed predicton on human maybe by training a new model specific for this task .
+- 
+## 6. Licensing, Authors, Acknowledgements
 
 thanks to udacity for providing the complementry codes .
