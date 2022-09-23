@@ -135,8 +135,13 @@ For the web app i would choose the Convolutional neural network with Transfer Le
 
 Data Visualization
 -----
+Data :
+
+Welsh springer spaniel dog breed
+<img src="https://github.com/hayfa66/dog-breed-classifier-app/blob/main/images/Welsh_springer_spaniel_08203.jpg" height="200">
 
 Testing algorithm photos : 
+
 - human 
 This human looks like an Beagle.
 <img src="https://github.com/hayfa66/dog-breed-classifier-app/blob/main/MyPhotos/photo1.png" height="200">
