@@ -137,7 +137,12 @@ Data Visualization
 -----
 Data :
 
+Curly-coated retriever
+
+<img src="https://github.com/hayfa66/dog-breed-classifier-app/blob/main/images/Curly-coated_retriever_03896.jpg" height="200">
+
 Welsh springer spaniel dog breed
+
 <img src="https://github.com/hayfa66/dog-breed-classifier-app/blob/main/images/Welsh_springer_spaniel_08203.jpg" height="200">
 
 Testing algorithm photos : 
