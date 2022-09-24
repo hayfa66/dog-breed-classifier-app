@@ -145,7 +145,7 @@ using pre-trained ResNet-50 model to detect dogs in images the accuracy was :
 - 100.0% accuracy on the first 100 images in dog files , have a detected dog.
 
 
-Model Performance
+### Model Performance
 
 - Convolutional neural network from scratch Accuracy was 6.8182%.
 - Pre-trained convolutional neural network Accuracy was 40.6699%.
