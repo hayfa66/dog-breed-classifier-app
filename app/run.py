@@ -2,7 +2,6 @@ from flask import render_template
 from flask import Flask, request,jsonify
 from werkzeug.utils import secure_filename
 import os
-from glob import glob
 from utils.helper import *
 
 
