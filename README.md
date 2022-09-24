@@ -16,7 +16,7 @@ no necessary version needed i import all of these libraries by the last version 
 - tensorflow-gpu
 
 You also need to download some file called "VGG-16 bottleneck features"
-And add it at folder bottleneck_features .
+And add it in the bottleneck_features folder.
 
 you can find it here in the [udacity dog-project github](https://github.com/udacity/dog-project) .
 
