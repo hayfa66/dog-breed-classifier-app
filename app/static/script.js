@@ -9,14 +9,12 @@ formFile.onchange = function (e) {
 }
 
 $(document).ready(function (e) {
-    $('#progress-spinner').hide()
     $('#alert-error').hide();
     $('#result').html('');
     $('#predictButton').on('click', function () {
         let file_data = $('#FormImageFile')[0].files[0];
         let form_data = new FormData();
         form_data.append('file', file_data);
-        $('#progress-spinner').show()
         $('#result').html('');
         $('#alert-error').hide();
         $.ajax({
@@ -36,11 +34,8 @@ $(document).ready(function (e) {
                     $('#result').html(message);
                 }
             },
-            complete: function (response) {
-                $('#progress-spinner').hide();
-            },
             error: function (response) {
-                $('#result').html("Failed to predict");
+                $('#result').html("Fail Please Try Again");
             }
         });
     });
