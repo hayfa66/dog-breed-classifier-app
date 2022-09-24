@@ -15,15 +15,12 @@ no necessary version needed i import all of these libraries by the last version 
 - scikit-learn
 - tensorflow-gpu
 
-However the 
-also needs to download some more file called "VGG-16 bottleneck features"
-And add it at file bottleneck_features
+You also need to download some file called "VGG-16 bottleneck features"
+And add it at folder bottleneck_features .
 
 you can find it here in the [udacity dog-project github](https://github.com/udacity/dog-project) .
 
-Then the app should work
-
-without more dataset , enviroment... etc
+Then the app should work without more dataset , enviroment... etc
 
 
 However the dog_app.py would not work ,
@@ -53,6 +50,7 @@ In the terminal :-
 And click on the url that will be given to you in the terminal.
 
 ---------
+
 ## 4.File Descriptions
 
 dog_app.html : html version of the dog_app notbook
