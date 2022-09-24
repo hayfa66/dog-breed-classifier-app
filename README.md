@@ -131,6 +131,7 @@ For testing :
 
 There are 836 dog images.
 
+
 Human Detector Performance
 using a CascadeClassifier provided by udacity accuracy was :
 
@@ -224,7 +225,8 @@ web app predictions :
 <img src="https://github.com/hayfa66/dog-breed-classifier-app/blob/main/webapp12.png" height="700">
 <img src="https://github.com/hayfa66/dog-breed-classifier-app/blob/main/webapp3.png" height="700">
 
-# Two particular aspect with difficulty or interesting:
+## Two particular aspect with difficulty or interesting:
+
 - understanding how architecture impact the CNN model was hard .
 - the result from the predictions was interesting . 
 
