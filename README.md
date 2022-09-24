@@ -77,13 +77,13 @@ images : photo used everywhere in the project.
 
 -----
 
-## 5. Project Definition
+# 5. Project Definition
 
-# Project Overview
+## Project Overview
 
 This is a project has an app that would use convolutional neural network to predict a dog breed , a human face and its similar look alike from dog breeds or pridict that no human or dog detected .
 
-# Problem Statement
+## Problem Statement
 
 The app accept a photo from a user and predict as following :
 
@@ -131,6 +131,7 @@ For testing :
 
 There are 836 dog images.
 
+### detectors Performance
 
 Human Detector Performance
 using a CascadeClassifier provided by udacity accuracy was :
