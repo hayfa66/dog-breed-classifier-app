@@ -76,6 +76,7 @@ Myphoto : photo to test the model.
 images : photo used everywhere in the project.
 
 -----
+
 ## 5. Project Definition
 
 # Project Overview
