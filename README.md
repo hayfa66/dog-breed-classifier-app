@@ -9,6 +9,7 @@ no necessary version needed i import all of these libraries by the last version 
 
 - opencv-python
 - matplotlib
+- werkzeug
 - numpy
 - tqdm
 - keras
