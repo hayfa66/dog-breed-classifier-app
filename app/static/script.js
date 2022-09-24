@@ -33,6 +33,7 @@ $(document).ready(function (e) {
                     </div>`
                     $('#result').html(message);
                 }
+            },complete: function (response) {
             },
             error: function (response) {
                 $('#result').html("Fail Please Try Again");
