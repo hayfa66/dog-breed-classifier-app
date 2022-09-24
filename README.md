@@ -21,12 +21,14 @@ And add it in the bottleneck_features folder.
 
 you can find it here in the [udacity dog-project github](https://github.com/udacity/dog-project) .
 
-Then the app should work without more dataset , enviroment... etc
+Then the app should work without more dataset , environment... etc
 
 
 However the dog_app.py would not work ,
 until you download the dataset (human and dog images)from the
-[udacity dog-project github](https://github.com/udacity/dog-project) .
+[udacity dog-project github](https://github.com/udacity/dog-project).
+
+and enable a gpu environment .
 
 --------------
 ## 2. Project Motivation
@@ -167,23 +169,36 @@ Welsh springer spaniel dog breed
 
 Testing algorithm photos : 
 
-- human 
+- ### human 
+
 This human looks like an Beagle.
+
 <img src="https://github.com/hayfa66/dog-breed-classifier-app/blob/main/MyPhotos/photo1.png" height="200">
+
 This human looks like an Silky terrier.
+
 <img src="https://github.com/hayfa66/dog-breed-classifier-app/blob/main/MyPhotos/photo6.png" height="200">
 
-- dogs
+- ### dogs
+
 This Dog breed is American staffordshire terrier.
+
 <img src="https://github.com/hayfa66/dog-breed-classifier-app/blob/main/MyPhotos/photo2.png" height="200">
+
 This Dog breed is Pomeranian.
+
 <img src="https://github.com/hayfa66/dog-breed-classifier-app/blob/main/MyPhotos/photo5.png" height="200">
 
-- Bears
+- #### Bears
+
 No human or dog found
+
 <img src="https://github.com/hayfa66/dog-breed-classifier-app/blob/main/MyPhotos/photo3.png" height="200">
+
 No human or dog found
+
 <img src="https://github.com/hayfa66/dog-breed-classifier-app/blob/main/MyPhotos/photo4.png" height="200">
+
 -----
 
 # 6. Conclusion
