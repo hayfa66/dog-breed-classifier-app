@@ -27,7 +27,7 @@ def human_or_dog(img_path):
     if face_detector(img_path):
          # call function that has a model that can predict
         dog_name = dog_breed(img_path)
-        return "This Photo looks like a "+dog_name+"."
+        return "This human looks like a "+dog_name+" breed."
     return "No human or dog found"
 
 def allowed_file(filename):
